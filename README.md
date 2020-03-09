@@ -8,15 +8,7 @@ The data used in this project is inside disney_movies_total_gross.csv
 # Install
 Supported Python version - 3.5+
 
-Libraries Used:
-
-Pandas 0.24.2
-
-Numpy 1.16.3
-
-Seaborn 0.9.0
-
-Scikit-learn 0.21.2
+Libraries used and their versions can be found in requirements.txt
 
 # Code
 The code used in this project is inside disney_movies_box_office_success.ipynb.
